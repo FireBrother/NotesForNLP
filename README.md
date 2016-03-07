@@ -1,2 +1,2 @@
 # NotesForNLP
-http://www.cs.columbia.edu/~mcollins/的渣翻译
+http://www.cs.columbia.edu/~mcollins/ 的渣翻译
